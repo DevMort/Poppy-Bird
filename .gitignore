@@ -1,0 +1,26 @@
+.import
+Poppy Bird.x86_64
+assets/Font/taptoplay.png.import
+assets/Bird/Bird_spritesheet.png.import
+assets/Bird/icon-114.png.import
+assets/Bird/icon-128.png.import
+assets/Bird/icon-16.png.import
+assets/Bird/icon-256.png.import
+assets/Bird/icon-32.png.import
+assets/Bird/loading-logo.png.import
+assets/HUD/glasspannal-sheet0.png.import
+assets/Background/background-sheet0.png.import
+assets/Background/cloud-sheet0.png.import
+assets/Background/ground-sheet0.png.import
+assets/Background/mountain-sheet0.png.import
+assets/Background/top_pipe-sheet0.png.import
+assets/HUD/playbotton-sheet0.png.import
+assets/HUD/sprite-sheet0.png.import
+assets/Music/Jump.mp3.import
+assets/Music/fallonground.mp3.import
+assets/Music/pipecollide.mp3.import
+assets/Music/sfx_point.ogg.import
+assets/Particals
+assets/HUD/glasspannal-sheet0.png
+assets/HUD/playbotton-sheet0.png
+icon.png.import
